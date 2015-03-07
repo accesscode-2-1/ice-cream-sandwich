@@ -35,14 +35,14 @@
 * What is your goal for next week? To be able to create more complex programs within intelliJ and have them run successfully
 * What do you need help with? (peers sign up to help if they can) Understanding vocabulary words such as objects, method, token, etc. !
 
-**Student 4**
+**Sufei Zhao**
 
-* This week's medium post:
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* This week's medium post: https://medium.com/@sufeizhao/pilot-8012c339b45d
+* Last week’s goal: Be more comfortable with using git and Github
+* What went well (what goals did you meet?) YES! I now know how to share a repo with a classmate on Github and clone it to my local drive.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) Not enough time to practice pull requests and such.
+* What is your goal for next week? Create a tip calculator
+* What do you need help with? (peers sign up to help if they can) Understanding forking and merging repo 
 
 **Student 5**
 
