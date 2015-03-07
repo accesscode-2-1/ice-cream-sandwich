@@ -17,14 +17,14 @@
 * What is your goal for next week? Google API, I want to run a Google Search and define some stuff.
 * What do you need help with? (peers sign up to help if they can) Google API anyone?
 
-**Student 2**
+**Jorge Reina**
 
-* This week's medium post:
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* This week's medium post: https://medium.com/@jorgereina1986/not-a-new-chapter-a-whole-new-book-62209ffa71f5
+* Last week’s goal: Get a better understanding of git and github
+* What went well (what goals did you meet?) I feel a lot more confident about git. I completely understood all the clases.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)I feel I need a little bit of more practice with git hub. Still find myself confused at times.
+* What is your goal for next week? I am really anxious about creating a more complex program. Hopefully I get to do one with what we learn during the next week.
+* What do you need help with? (peers sign up to help if they can)Still a bit confused with github. I'll try to find some time to come to office hours and get a better understanding of it.
 
 **Student 3**
 
