@@ -1,20 +1,21 @@
 # Weekly Pod Meeting Template
 
-* Date:
-* Attendants:
+* Date: March 7th 2015
+* Attendants: george, sufei, alvin, jorge, na li
 * Team Leader:
 * Think Piece: [Optimism, Reg Braithwaite](http://braythwayt.com/homoiconic/2009/05/01/optimism.html)
 
 ### Retrospective
 
-**Student 1**
+**George Syrimis**
 
-* This week's medium post:
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* This week's medium post: https://medium.com/@gmsyrimis/computer-physiology-716e0b77255a
+* Last week’s goal: Learn Git
+* What went well (what goals did you meet?) I learned Git, user input, variables.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) 
+* I am working on a JAVA program and it was giving me some issues importing a new .jar and some logic issues, but it's working out slowly.
+* What is your goal for next week? Google API, I want to run a Google Search and define some stuff.
+* What do you need help with? (peers sign up to help if they can) Google API anyone?
 
 **Student 2**
 
