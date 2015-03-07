@@ -59,6 +59,9 @@
 * How does this think piece relate to access code?
 
 ### TODOs
+- become more famliar with the syntax of Java 
+- continue to gain more familiarility with using Git for projects
+
 
 ### Extra comments / Anything you want your program managers to know
 
