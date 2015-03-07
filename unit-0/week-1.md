@@ -26,14 +26,14 @@
 * What is your goal for next week? I am really anxious about creating a more complex program. Hopefully I get to do one with what we learn during the next week.
 * What do you need help with? (peers sign up to help if they can)Still a bit confused with github. I'll try to find some time to come to office hours and get a better understanding of it.
 
-**Student 3**
+**Alvin Kuang**
 
-* This week's medium post:
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* This week's medium post: https://medium.com/@ahhhlvin/hello-world-and-access-code-2-0-77ee1b103841
+* Last week’s goal: To get familiar with Git and IntelliJ
+* What went well (what goals did you meet?) We sucessfully gained more experience with using git when doing exercises to learn new concepts during the classes this past week. 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) Review more of the syntax to understand the basic foundation for learning future concepts.
+* What is your goal for next week? To be able to create more complex programs within intelliJ and have them run successfully
+* What do you need help with? (peers sign up to help if they can) Understanding vocabulary words such as objects, method, token, etc. !
 
 **Student 4**
 
