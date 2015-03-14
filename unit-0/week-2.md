@@ -25,7 +25,14 @@
 * What is your goal for next week? Make a tip calculator!
 * What do you need help with? (peers sign up to help if they can) the drawrocket assignment
 
-**Student 3**
+**Student Na Li 
+
+* This week's medium post: the days of first week. 
+* Last week’s goal: to do more exercise, and then I find out I can understand them all, I know how to use veriables, if, else....etc. 
+* What went well (what goals did you meet?) so far all the class before 3/7 I can totally understand. 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) The callenges is some professional words which I do not unsersand when people talk it in English. But by review after class. No problem with me. 
+* What is your goal for next week? I will keep review and figure out the methord, break, continure....
+* What do you need help with? (peers sign up to help if they can)I need come to office hour and ask more help from TA. :)
 
 * This week's medium post:
 * Last week’s goal:
