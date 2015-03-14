@@ -34,14 +34,15 @@
 * What is your goal for next week?
 * What do you need help with? (peers sign up to help if they can)
 
-**Student 4**
+**George Syrimis**
 
-* This week's medium post:
-* Last week’s goal:
-* What went well (what goals did you meet?)
+* This week's medium post: [medium](https://medium.com/@gmsyrimis/the-langoliers-6e0480bf88a9)
+* Last week’s goal: Google API
+* What went well (what goals did you meet?) Not much. This week went by, built as many things as I could. No APIs...
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+The game could have been better. I need to make measureable and predictable goals. And have alternatives if something is getting too big and pushing my deadline.
+* What is your goal for next week? Fix my head, adjust.
+* What do you need help with? (peers sign up to help if they can) Turning off a while loop that's in my head. The condition is true and running continuesly. haha
 
 Jorge Reina
 
