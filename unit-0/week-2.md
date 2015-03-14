@@ -25,7 +25,7 @@
 * What is your goal for next week? Make a tip calculator!
 * What do you need help with? (peers sign up to help if they can) the drawrocket assignment
 
-**Student Na Li 
+Na Li 
 
 * This week's medium post: the days of first week. 
 * Last week’s goal: to do more exercise, and then I find out I can understand them all, I know how to use veriables, if, else....etc. 
