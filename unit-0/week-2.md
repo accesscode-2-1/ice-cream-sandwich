@@ -68,6 +68,8 @@ Jorge Reina
 ### TODOs
 
 ### Extra comments / Anything you want your program managers to know
+- It would be useful to invest in a microphone system to enhance lecturer's voice! 
+- Having the lecturers repeat questions asked by students in the front would be helpful for those sitting in the back since we can't always hear! 
 
 ### Next Week
 
