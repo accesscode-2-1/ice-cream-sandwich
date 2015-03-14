@@ -44,7 +44,7 @@
 * What is your goal for next week? Create a tip calculator
 * What do you need help with? (peers sign up to help if they can) Understanding forking and merging repo 
 
-**Na Li **
+**Na Li**
 
 * This week's medium post: post three sotries, two just talking about daily-life, one is about some IT meet-up info, held in midtown NY. https://medium.com/@annalinewyork/first-week-at-c4q-5a4898503242
 * Last week’s goal:To practise git and github, study java user-input, variable, etc. 
