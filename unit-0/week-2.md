@@ -1,9 +1,9 @@
 # Week 2 Pod Meeting
 
-* Date:
-* Attendants:
-* Team Leader:
-* Think Piece:
+* Date: 3/14/2015
+* Attendants: Sufei, Jorge, George, Alvin, Anna
+* Team Leader: Jorge 
+* Think Piece: Grit 
 
 ### Retrospective
 
