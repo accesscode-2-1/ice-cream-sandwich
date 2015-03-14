@@ -9,9 +9,9 @@
 
 **Student 1**
 
-* This week's medium post: 
-* Last week’s goal: https://medium.com/@ahhhlvin/motivation-perseverance-grit-61ecf14ab8b9
-* What went well (what goals did you meet?): completed my own adventure game and roman calculator! 
+* This week's medium post: https://medium.com/@ahhhlvin/motivation-perseverance-grit-61ecf14ab8b9
+* Last week’s goal: completed my own adventure game and roman calculator! 
+* What went well (what goals did you meet?): I was able to complete my projects :) 
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?): Understand concepts behind loops and methods 
 * What is your goal for next week? To be able to create more complex projects! 
 * What do you need help with? (peers sign up to help if they can) understanding nesting loops within loops
