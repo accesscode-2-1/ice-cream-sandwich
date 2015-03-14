@@ -43,14 +43,14 @@
 * What is your goal for next week?
 * What do you need help with? (peers sign up to help if they can)
 
-**Student 5**
+Jorge Reina
 
-* This week's medium post:
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* This week's medium post:https://medium.com/@jorgereina1986/i-13b11c39ad64
+* Last week’s goal:To create a complex program.
+* What went well (what goals did you meet?)I met my goal of building a program which i am very happy about for homework.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)Not much I got lots of help from a cousin who is majoring in Computer information system so he helped me a lot with my java skills.
+* What is your goal for next week? Make sure everything is clear.
+* What do you need help with? (peers sign up to help if they can) I think I need help with putting my logic into code.
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
