@@ -9,6 +9,7 @@
 
 Alvin
 
+* Last week's medium post: [Medium](https://medium.com/@ahhhlvin/reflections-f483aa3dd958)
 * Last week’s goal: Completed a few of the homework assignments without any help!!! :simple_smile:
 * What went well (what goals did you meet?) I was able to figure out how to work out solutions on my own
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?) I did get a bit confused because I would have the basic logic but would get stuck thinking in a way that wasn't the best solution, and then I would try and get a few tips 
@@ -17,11 +18,12 @@ Alvin
 
 George
 
-* Last week’s goal
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* Last week's medium post: 
+* Last week’s goal: 
+* What went well (what goals did you meet?): 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
+* What is your goal for next week?: 
+* What do you need help with? (peers sign up to help if they can): 
 
 Jorge
 
@@ -33,19 +35,21 @@ Jorge
 
 Anna
 
-* Last week’s goal Last week I learned the expanding string, object, my goal is to understand it and try to use them with the loops. 
-* What went well (what goals did you meet?) I can write some simple method.
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I am learning API right now, I think if I know how to use it, it will help me a lot. 
-* What is your goal for next week? I am still try to learn those expanding string, combine with method, I know them when TA explain to me, but once I face a new exercise, I can't do it. 
-* What do you need help with? (peers sign up to help if they can) TA helps a lot. I sometimes feels I have some solutions but just can not catch it... I need more exercise. 
+* Last week's medium post: [Medium](https://medium.com/@annalinewyork/have-to-learn-how-to-learn-e1cf6812d670)
+* Last week’s goal: Last week I learned the expanding string, object, my goal is to understand it and try to use them with the loops. 
+* What went well (what goals did you meet?): I can write some simple method.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): I am learning API right now, I think if I know how to use it, it will help me a lot. 
+* What is your goal for next week?: I am still try to learn those expanding string, combine with method, I know them when TA explain to me, but once I face a new exercise, I can't do it. 
+* What do you need help with?: (peers sign up to help if they can) TA helps a lot. I sometimes feels I have some solutions but just can not catch it... I need more exercise. 
 
 Sufei
 
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* Last week's medium post: [IntelliJ and I](https://medium.com/@sufeizhao/the-red-squiggly-of-death-938285277b9)
+* Last week’s goal: Create tip calculator
+* What went well (what goals did you meet?): 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
+* What is your goal for next week?: 
+* What do you need help with? (peers sign up to help if they can): 
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
