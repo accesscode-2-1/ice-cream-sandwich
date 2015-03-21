@@ -61,6 +61,7 @@
   2. Once we master java, it's possible for us to venture into other languages if we wanted to.
 
 ### TODOs
+* help Anna with her code
 
 ### Extra comments / Anything you want your program managers to know
 * Was not as intrigued by this week's think piece as the past two weeks, maybe because the author talked about his issues with swift and objective C, something we don't have much knowledge on.
