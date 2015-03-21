@@ -16,7 +16,7 @@
 * What is your goal for next week? To complete all of the homework assignments on my own! 
 * What do you need help with? (peers sign up to help if they can) Changing my way of analyzing problems to produce solutions using code
 
-George
+**George**
 
 * Last week's medium post: 
 * Last week’s goal: 
@@ -25,7 +25,7 @@ George
 * What is your goal for next week?: 
 * What do you need help with? (peers sign up to help if they can): 
 
-Jorge
+**Jorge**
 
 * To understand topics better.
 * I had some very good help from som TAs but, unfortunately I didn't have a laptop for a couple of days so I am a little behind everyone else.
@@ -33,7 +33,7 @@ Jorge
 * Practice, practice, practice... and catch up.
 * What do you need help with? Methods
 
-Anna
+**Anna**
 
 * Last week's medium post: [Medium](https://medium.com/@annalinewyork/have-to-learn-how-to-learn-e1cf6812d670)
 * Last week’s goal: Last week I learned the expanding string, object, my goal is to understand it and try to use them with the loops. 
@@ -42,18 +42,20 @@ Anna
 * What is your goal for next week?: I am still try to learn those expanding string, combine with method, I know them when TA explain to me, but once I face a new exercise, I can't do it. 
 * What do you need help with?: (peers sign up to help if they can) TA helps a lot. I sometimes feels I have some solutions but just can not catch it... I need more exercise. 
 
-Sufei
+**Sufei**
 
 * Last week's medium post: [IntelliJ and I](https://medium.com/@sufeizhao/the-red-squiggly-of-death-938285277b9)
 * Last week’s goal: Create tip calculator
-* What went well (what goals did you meet?): 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* What went well (what goals did you meet?): Was able to catch up on unfinished exercises. Completed hw assignments and finally started on Tip Calculator
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): I wasn't happy with my Verbosity Calculator code. I wanted to not count 'III.' or 'V.' as a sentence, but didn't have time.
+* What is your goal for next week?: Finish tip calculator and start on Half Birthday Calculator
+* What do you need help with? (peers sign up to help if they can): Learn to comment better on my codes
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
 * What are 2 things you took from this think piece?
+* - The author had a lot of grit, which is why he was able to complete his project in such a short amount of time.
+* - 
 * How does this think piece relate to access code?
 
 ### TODOs
