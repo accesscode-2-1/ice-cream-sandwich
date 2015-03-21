@@ -17,19 +17,19 @@ Alvin
 
 George
 
-* Last week’s goal: Fix my head, adjust.
-* What went well (what goals did you meet?) I cleared my head a bit, writing solutions on paper before coding.
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) This week was smooth, I see that I need some practise with Classes
-* What is your goal for next week? Be better with Classes
-* What do you need help with? (peers sign up to help if they can) Classes
-
-Jorge
-
 * Last week’s goal
 * What went well (what goals did you meet?)
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?)
 * What is your goal for next week?
 * What do you need help with? (peers sign up to help if they can)
+
+Jorge
+
+* To understand topics better.
+* I had some very good help from som TAs but, unfortunately I didn't have a laptop for a couple of days so I am a little behind everyone else.
+* Timing. I feel like I don't have enough time to practice and review.
+* Practice, practice, practice... and catch up.
+* What do you need help with? Methods
 
 Anna
 
