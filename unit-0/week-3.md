@@ -1,54 +1,62 @@
-Week 0 Pod meeting
-Date:
-Attendants:
-Team Leader:
-Think Piece: 
-Retrospective
+# Week 3 Pod meeting
 
-Student 1
+* Date: 3/21/15
+* Attendants: Alvin, George, Jorge, Anna, Sufei
+* Team Leader: Sufei
+* Think Piece: [Think Piece: How I, a designer learned to code and released an app in 4 months](https://medium.com/ios-os-x-development/how-i-a-designer-learned-to-code-and-released-an-app-in-4-months-219d7c1b8df1)
 
-Last week’s goal
-What went well (what goals did you meet?)
-What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-What is your goal for next week?
-What do you need help with? (peers sign up to help if they can)
-Student 2
+### Retrospective
 
-Last week’s goal
-What went well (what goals did you meet?)
-What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-What is your goal for next week?
-What do you need help with? (peers sign up to help if they can)
-Student 3
+Alvin
 
-Last week’s goal
-What went well (what goals did you meet?)
-What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-What is your goal for next week?
-What do you need help with? (peers sign up to help if they can)
-Student 4
+* Last week’s goal
+* What went well (what goals did you meet?)
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
+* What is your goal for next week?
+* What do you need help with? (peers sign up to help if they can)
 
-Last week’s goal
-What went well (what goals did you meet?)
-What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-What is your goal for next week?
-What do you need help with? (peers sign up to help if they can)
-Student 5
+George
 
-Last week’s goal
-What went well (what goals did you meet?)
-What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-What is your goal for next week?
-What do you need help with? (peers sign up to help if they can)
-Think piece discussion (team leader has prepared answers and guides discussion)
+* Last week’s goal
+* What went well (what goals did you meet?)
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
+* What is your goal for next week?
+* What do you need help with? (peers sign up to help if they can)
 
-What are 2 things you took from this think piece?
-How does this think piece relate to access code?
-TODOs
+Jorge
 
-Extra comments / Anything you want your program managers to know
+* Last week’s goal
+* What went well (what goals did you meet?)
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
+* What is your goal for next week?
+* What do you need help with? (peers sign up to help if they can)
 
-Next Week
+Anna
 
-Next Week’s think piece:
-Next Week’s team leader:
+* Last week’s goal
+* What went well (what goals did you meet?)
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
+* What is your goal for next week?
+* What do you need help with? (peers sign up to help if they can)
+
+Sufei
+
+* Last week’s goal:
+* What went well (what goals did you meet?)
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
+* What is your goal for next week?
+* What do you need help with? (peers sign up to help if they can)
+
+### Think piece discussion (team leader has prepared answers and guides discussion)
+
+* What are 2 things you took from this think piece?
+* How does this think piece relate to access code?
+
+### TODOs
+
+### Extra comments / Anything you want your program managers to know
+
+### Next Week
+
+* Next Week’s think piece:
+* Next Week’s team leader: Anna
