@@ -55,8 +55,10 @@
 
 * What are 2 things you took from this think piece?
   1. The author had a lot of grit, which is why he was able to complete his project in such a short amount of time.
-  2.  
+  2. We experience the same circle of learning everyday in class.
 * How does this think piece relate to access code?
+  1. He set out to accomplish something and kept at it until it was done, even when it was hard in the beginning. We should have the same attitude during our access code journey.
+  2. Once we master java, it's possible for us to venture into other languages if we wanted to.
 
 ### TODOs
 
