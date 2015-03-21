@@ -54,8 +54,8 @@
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
 * What are 2 things you took from this think piece?
-* - The author had a lot of grit, which is why he was able to complete his project in such a short amount of time.
-* - 
+  1. The author had a lot of grit, which is why he was able to complete his project in such a short amount of time.
+  2.  
 * How does this think piece relate to access code?
 
 ### TODOs
