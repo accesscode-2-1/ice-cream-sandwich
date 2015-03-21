@@ -9,11 +9,11 @@
 
 Alvin
 
-* Last week’s goal: Completed a few of the homework assignments without any help!!! :)
-* What went well (what goals did you meet?) I was able to figure out how to work out solutions on my own
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I did get a bit confused because I would have the basic logic but would get stuck thinking in a way that wasn't the best solution, and then I would try and get a few tips 
-* What is your goal for next week? To complete all of the homework assignments on my own! 
-* What do you need help with? (peers sign up to help if they can) Changing my way of analyzing problems to produce solutions using code 
+* Last week’s goal
+* What went well (what goals did you meet?)
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
+* What is your goal for next week?
+* What do you need help with? (peers sign up to help if they can)
 
 George
 
@@ -33,11 +33,11 @@ Jorge
 
 Anna
 
-* Last week’s goal
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* Last week’s goal Last week I learned the expanding string, object, my goal is to understand it and try to use them with the loops. 
+* What went well (what goals did you meet?) I can write some simple method.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I am learning API right now, I think if I know how to use it, it will help me a lot. 
+* What is your goal for next week? I am still try to learn those expanding string, combine with method, I know them when TA explain to me, but once I face a new exercise, I can't do it. 
+* What do you need help with? (peers sign up to help if they can) TA helps a lot. I sometimes feels I have some solutions but just can not catch it... I need more exercise. 
 
 Sufei
 
