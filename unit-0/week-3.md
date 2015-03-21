@@ -18,12 +18,12 @@
 
 **George**
 
-* Last week's medium post: 
-* Last week’s goal: 
-* What went well (what goals did you meet?): 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* Last week's medium post: https://medium.com/@gmsyrimis/an-objective-reality-261d465d1d47
+* Last week’s goal: Clear head.
+* What went well (what goals did you meet?): I cleared my head, started writing answers on paper before coding, taking things step by step.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): I want to learn more about classes and putting all the information within the class.
+* What is your goal for next week?: Classes, must know classes.
+* What do you need help with? (peers sign up to help if they can): Classes. How to build them, interact with them, making different classes interact with eachother.
 
 **Jorge**
 
