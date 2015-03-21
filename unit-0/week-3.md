@@ -9,11 +9,11 @@
 
 Alvin
 
-* Last week’s goal
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* Last week’s goal: Completed a few of the homework assignments without any help!!! :)
+* What went well (what goals did you meet?) I was able to figure out how to work out solutions on my own
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I did get a bit confused because I would have the basic logic but would get stuck thinking in a way that wasn't the best solution, and then I would try and get a few tips 
+* What is your goal for next week? To complete all of the homework assignments on my own! 
+* What do you need help with? (peers sign up to help if they can) Changing my way of analyzing problems to produce solutions using code 
 
 George
 
