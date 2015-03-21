@@ -46,7 +46,7 @@
 
 * Last week's medium post: [IntelliJ and I](https://medium.com/@sufeizhao/the-red-squiggly-of-death-938285277b9)
 * Last week’s goal: Create tip calculator
-* What went well (what goals did you meet?): Was able to catch up on unfinished exercises. Completed hw assignments and finally started on Tip Calculator
+* What went well (what goals did you meet?): Was able to catch up on unfinished exercises: [Tip Calculator](https://github.com/sufeiiz/Projects/blob/master/src/sufeiiz/TipCalculator.java). Completed hw assignments and finally started on Tip Calculator
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?): I wasn't happy with my Verbosity Calculator code. I wanted to not count 'III.' or 'V.' as a sentence, but didn't have time.
 * What is your goal for next week?: Finish tip calculator and start on Half Birthday Calculator
 * What do you need help with? (peers sign up to help if they can): Learn to comment better on my codes
