@@ -7,7 +7,7 @@
 
 ### Retrospective
 
-*Alvin*
+**Alvin**
 
 * Last week's medium post: [Medium](https://medium.com/@ahhhlvin/reflections-f483aa3dd958)
 * Last week’s goal: Completed a few of the homework assignments without any help!!! :simple_smile:
