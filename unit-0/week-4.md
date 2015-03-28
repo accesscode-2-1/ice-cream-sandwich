@@ -18,12 +18,12 @@
 
 **George**
 
-* Last week's medium post: 
-* Last week’s goal: 
-* What went well (what goals did you meet?): 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* Last week's medium post: https://medium.com/@gmsyrimis/feelings-and-reactions-f11004120775
+* Last week’s goal: Classes
+* What went well (what goals did you meet?): I learned how to use and create classes
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): Everything went well
+* What is your goal for next week?: Let next week happen, pay attention, practice
+* What do you need help with? (peers sign up to help if they can): I'm working on pacing myself
 
 **Jorge**
 
