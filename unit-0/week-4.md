@@ -9,12 +9,12 @@
 
 **Alvin**
 
-* Last week's medium post: 
+* Last week's medium post: https://medium.com/@ahhhlvin/reflections-f483aa3dd958
 * Last week’s goal: 
-* What went well (what goals did you meet?):
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* What went well (what goals did you meet?): I was able to work successfully with other students to arrive at a general solution for the homework assignments!
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): Some challenges I faced was truly understanding how to start with some of the homework assignments, I overcame it by discussing with some of TA's! 
+* What is your goal for next week?: To better understand the dog example that Davis had us do on Saturday. 
+* What do you need help with? (peers sign up to help if they can): understanding syntax when calling certain methods on certain objects
 
 **George**
 
