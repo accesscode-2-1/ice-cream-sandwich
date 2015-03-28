@@ -36,12 +36,12 @@
 
 **Anna**
 
-* Last week's medium post: 
-* Last week’s goal: 
-* What went well (what goals did you meet?): 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* Last week's medium post: New York's Winter
+* Last week’s goal: To learn method, and try to figure out what is object. 
+* What went well (what goals did you meet?): so far I did some exercise about method, and some of them went weel.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): I wanna join more office hours and to imporve the method and obejct. 
+* What is your goal for next week?: Arraylist and object. and the subway exercise. 
+* What do you need help with? (peers sign up to help if they can): object. 
 
 **Sufei**
 
