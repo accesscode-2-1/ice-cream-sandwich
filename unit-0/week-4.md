@@ -45,12 +45,12 @@
 
 **Sufei**
 
-* Last week's medium post: 
-* Last week’s goal: 
-* What went well (what goals did you meet?): 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* Last week's medium post: [Occam's Razor](https://medium.com/@sufeizhao/occam-s-razor-5b1a3f7dcd98)
+* Last week’s goal: Finish tip calculator
+* What went well (what goals did you meet?): I finally finished tip calculator. Learned about ArrayLists which are really helpful. Also very proud of my group for our signboard.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): I'm really bad at going back to completed code and figuring out ways to improve it. Once I'm done I check it off the list and often don't touch it again. But now that we're starting to get TA feedback on our homeworks I need to get into the habit of revisting old codes.
+* What is your goal for next week?: Complete old in class assignments that we didn't have time to complete.
+* What do you need help with? (peers sign up to help if they can): when there are multiple classes in a project, deciding which class to put which method.
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
