@@ -27,12 +27,12 @@
 
 **Jorge**
 
-* Last week's medium post: 
-* Last week’s goal: 
-* What went well (what goals did you meet?): 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* Last week's medium post: https://medium.com/@jorgereina1986/every-day-i-m-juggling-568769a0fc9
+* Last week’s goal: Practice and catch up with my classmates.
+* What went well (what goals did you meet?): I have been catching up, but I am still a little behind.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): My main challenge is time management. I kind of overcome some part of it. I have re-arranged my schedule and I feel like I have found some extra time for practicing.
+* What is your goal for next week?: I have taken out some books to try to get a better understanding. So my goal is for me to read a lot more in order for me to get a better understanding of the topics being taught in class.
+* What do you need help with? (peers sign up to help if they can): Comprehending the topics better.
 
 **Anna**
 
