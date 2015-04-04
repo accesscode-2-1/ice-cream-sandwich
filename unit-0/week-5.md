@@ -27,12 +27,12 @@
 
 **Jorge**
 
-* Last week's medium post: 
-* Last week’s goal: 
-* What went well (what goals did you meet?): 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* Last week's medium post: https://medium.com/p/27fd1a04f91/edit
+* Last week’s goal: Read in order for me to get a better understanding of the topics being taught in class.
+* What went well (what goals did you meet?): I have been reading and I think the reading is helping me out
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): I need more time to reading. I started realizong that the reading of Java books are really clearing things up. I wish I had more time for reading.
+* What is your goal for next week?: My goal for next week is to catch up with my homework. 
+* What do you need help with? (peers sign up to help if they can): I need help putting my logic into code.
 
 **Anna**
 
