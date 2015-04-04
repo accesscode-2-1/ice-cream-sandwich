@@ -1,4 +1,4 @@
-# Week 0 Pod meeting
+# Week _ Pod meeting
 
 * Date: 
 * Attendants: Alvin, George, Jorge, Anna, Sufei
