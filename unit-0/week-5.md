@@ -9,21 +9,21 @@
 
 **Alvin**
 
-* Last week's medium post: 
-* Last week’s goal: 
-* What went well (what goals did you meet?):
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* Last week's medium post: https://medium.com/@ahhhlvin/the-completion-of-access-code-unit-0-16ade1f75a0b
+* Last week’s goal: Understand how and when to use the different types of collections ! 
+* What went well (what goals did you meet?): I was able to become more famliar with using for each loops and the concept behind using them
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): Learning how to create the specific code from scratch when creating programs
+* What is your goal for next week?: To review old concepts that we have learned already and solify it more! 
+* What do you need help with? (peers sign up to help if they can): understanding when to use the different collection types! 
 
 **George**
 
-* Last week's medium post: https://medium.com/@gmsyrimis/feelings-and-reactions-f11004120775
-* Last week’s goal: Classes
-* What went well (what goals did you meet?): I know classes and objects by heart
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): I don't know
-* What is your goal for next week?: JSON
-* What do you need help with? (peers sign up to help if they can): JSON
+* Last week's medium post: 
+* Last week’s goal: 
+* What went well (what goals did you meet?): 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
+* What is your goal for next week?: 
+* What do you need help with? (peers sign up to help if they can): 
 
 **Jorge**
 
