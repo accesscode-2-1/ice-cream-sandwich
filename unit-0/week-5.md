@@ -36,12 +36,12 @@
 
 **Anna**
 
-* Last week's medium post: 
-* Last week’s goal: 
-* What went well (what goals did you meet?): 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* Last week's medium post: Thinking about my APP.
+* Last week’s goal: learn object, hashmap and arraylist. 
+* What went well (what goals did you meet?): I know basic conception about object. 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): to use the object during coding.
+* What is your goal for next week?: I wish I could catch up with others.
+* What do you need help with? (peers sign up to help if they can): I need practise on how to combine method, object, and check API on line. 
 
 **Sufei**
 
