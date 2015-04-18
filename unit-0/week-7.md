@@ -50,11 +50,11 @@
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
 * What are 2 things you took from this think piece?
-  1. 
-  2. 
+  1. Diversity within the tech sector is good! 
+  2. One does not necessarily need a 4 year degree in computer science in order to become a developer.
 * How does this think piece relate to access code?
-  1. 
-  2. 
+  1.  It assures everyone that you don't have to fit the stereotype of what a "developer" is in order to be a successful and competent developer/engineer
+  2. Access code and C4Q emphasizes and promotes diversity in all aspects of life in order to change the concept of what the tech community is "supposed" to look like. 
 
 ### TODOs
 
