@@ -41,11 +41,11 @@
 
 **Sufei**
 
-* Last week’s goal: 
-* What went well (what goals did you meet?): 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* Last week’s goal: Spend more time reviewing my classmate's codes so I can see how many different ways there are to approach a problem.
+* What went well (what goals did you meet?): I spend our weekend off doing nothing, which felt so great and was exactly what I needed to prepare for the start of unit 1.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): I started to learn bootstrap to make my website mobile friendly, but the weather was so nice ourside I got distracted...will try to continue when I have free time.
+* What is your goal for next week?: learn dynamic programming
+* What do you need help with? (peers sign up to help if they can): recursion
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
