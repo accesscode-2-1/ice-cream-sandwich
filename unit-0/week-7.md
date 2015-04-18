@@ -33,11 +33,11 @@
 
 **Anna**
 
-* Last week’s goal: 
-* What went well (what goals did you meet?): 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* Last week’s goal: Review all unit-0's class.
+* What went well (what goals did you meet?): seems nothing is really well....
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): now I am doing all the exercises give by bootcamp, it works.
+* What is your goal for next week?: I am try to finish all exercises, but if not, I am gonna keep doing next week.
+* What do you need help with? (peers sign up to help if they can): TA's hint sometimes really good for me. 
 
 **Sufei**
 
