@@ -28,11 +28,11 @@
 **Jorge**
 
 * Last week's medium post: 
-* Last week’s goal: 
-* What went well (what goals did you meet?): 
+* Last week’s goal: To start off unit-1 with a good knowledge of the basics of java.
+* What went well (what goals did you meet?): Everything is going pretty well. Today's review is really helping also.
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* What is your goal for next week?: To try to keep up with all this android stuff.
+* What do you need help with? (peers sign up to help if they can): The transition to Android Studio
 
 **Anna**
 
