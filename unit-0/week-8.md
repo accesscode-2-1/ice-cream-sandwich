@@ -54,11 +54,11 @@
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
 * What are 2 things you took from this think piece?
-  1. 
-  2. 
+  1. know your strengths and weaknesses
+  2. weaknesses do not have to hold you back as long as you strive to work on getting better at it
 * How does this think piece relate to access code?
-  1. 
-  2. 
+  1. the take away message will help us when we start applying for jobs at the end of our access code journey
+  2. we might feel like our weakness right now is not completely understanding everything about java or android, but as long as we put in the effort to keep learning, this weakness will not hold us back from achieving bigger goals.
 
 ### TODOs
 
