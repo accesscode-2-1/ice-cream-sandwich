@@ -36,12 +36,12 @@
 
 **Anna**
 
-* Last week's medium post: 
-* Last week’s goal: 
-* What went well (what goals did you meet?): 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* Last week's medium post: "Everybody has the moment."
+* Last week’s goal: to review Unit 0. 
+* What went well (what goals did you meet?): I reviewed the Unit 0 and keep study on Java. 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): Keep doing exercises could help me to go better on Java. 
+* What is your goal for next week?: get basic knowledge for "Andriod studio".
+* What do you need help with? (peers sign up to help if they can): I need help on how to use the "studio". 
 
 **Sufei**
 
