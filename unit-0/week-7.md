@@ -25,11 +25,11 @@
 
 **Jorge**
 
-* Last week’s goal: 
-* What went well (what goals did you meet?): 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* Last week’s goal: catch up with homework
+* What went well (what goals did you meet?): With help from students, TAs and Teaching Fellows I successfully completed all my homework
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): I felt like everything went pretty well. I made an effort of trying to come to office hours everyday after work. I felt like the bootcamp exercises were really helpful
+* What is your goal for next week?: start unit-1 having a clear grasp of all the basics.
+* What do you need help with? (peers sign up to help if they can):  i think I am getting the basics pretty clear, but I need to practice more to get my knowledge stronger
 
 **Anna**
 
