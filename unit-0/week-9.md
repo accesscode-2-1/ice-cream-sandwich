@@ -9,12 +9,12 @@
 
 **Alvin**
 
-* Last week's medium post: 
-* Last week’s goal: 
-* What went well (what goals did you meet?):
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?): 
-* What is your goal for next week?: 
-* What do you need help with? (peers sign up to help if they can): 
+* Last week's medium post: Check pull request! 
+* Last week’s goal: Understand collections
+* What went well (what goals did you meet?): I was able to learn Arrays and also understand a bit more of when to use which collection type
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?): I wish we did some exercises that showed when you would use which collection depending on how you wanted to organize the items
+* What is your goal for next week?: I would like to further my understanding of how to create basic apps with diffierent functionalities. 
+* What do you need help with? (peers sign up to help if they can): I would like to practice making more basic apps! 
 
 **George**
 
