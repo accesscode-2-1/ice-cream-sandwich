@@ -1,16 +1,8 @@
-**Contributors:**
-
-* Alvin Kuang
-* George Syrimis
-* Jorge Reina
-* Na Li
-* Sufei Zhao
-
 # Weekly Pod Meeting Template
 
-* Date: [UPDATE THIS]
-* Attendants: [UPDATE THIS]
-* Team Leader: [UPDATE THIS]
+* Date: 6/13/15
+* Attendants: Jorge, Anna, Sufei, Alvin, George
+* Team Leader: Jorge
 
 ### This Week's Goals
 
@@ -34,7 +26,7 @@ Yes / No [UPDATE THIS]
 
 ### Next Week
 
-* Next Week’s team leader: [UPDATE THIS]
+* Next Week’s team leader: George
 * Next Week's pod goals:
   1. [UPDATE THIS]
   2. [UPDATE THIS]
