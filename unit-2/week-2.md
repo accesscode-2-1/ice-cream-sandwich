@@ -18,13 +18,11 @@ No, did not all submit hw on time.
 Homework was hard!
 
 ####3. What will you do as a team to make sure you meet your goals next week?
-
-[UPDATE THIS]
+Continue checkpoint meetings on Mondays
 
 ### Next Week
 
 * Next Week’s team leader: [UPDATE THIS]
 * Next Week's pod goals:
-  1. [UPDATE THIS]
-  2. [UPDATE THIS]
-  3. [UPDATE THIS]
+  1. Submit all the homework on time
+  2. Master all the material covered this week
