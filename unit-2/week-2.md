@@ -22,7 +22,7 @@ Continue checkpoint meetings on Mondays
 
 ### Next Week
 
-* Next Week’s team leader: [UPDATE THIS]
+* Next Week’s team leader: Anna
 * Next Week's pod goals:
   1. Submit all the homework on time
   2. Master all the material covered this week
