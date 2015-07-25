@@ -26,3 +26,4 @@ Continue checkpoint meetings on Mondays (Jorge)
 * Next Week's pod goals:
   1. Submit all the homework on time
   2. Master all the material covered this week
+  3. Mentally prepare for upcoming Hackathon next weekend!
